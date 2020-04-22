@@ -1,0 +1,5 @@
+a:link,a:visited{text-decoration:underline !important;}
+#content-inner,#footer-inner{border:0 !important;margin:0 !important;}
+#header-inner{padding:0 !important;}
+h1,h2{border:0 !important;}
+#sidebar-left,#sidebar-right,#primary,#secondary{display:none;}
